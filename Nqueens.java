@@ -1,4 +1,4 @@
-public class NQueens {
+public class Nqueens {
     static int[] x;
 
     public static boolean place(int k, int i) {
